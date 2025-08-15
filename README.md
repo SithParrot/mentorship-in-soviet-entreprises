@@ -1,3 +1,4 @@
 # mentorship-in-soviet-entreprises
-This is the number of mentors at Soviet enterprises in the regions of the RSFSR and the republics of the USSR in 1984-1989. 
-Statistics are taken from GARF, collection R5451, inventory 25b, d.3390, 3426, 3504, 3538. These statistics were collected by the All-Union Central Council of Trade Unions; before 1984, statistics were collected by industry, so only a small part of the statistics is provided here.
+This data shows the number of mentors at Soviet enterprises in the regions of the RSFSR and other republics of the USSR from 1984 to 1989. The statistics are taken from GARF, collection R-5451, inventory 25b, files 3390, 3426, 3504, and 3538. These figures were compiled by the All-Union Central Council of Trade Unions; before 1984, statistics were collected by industry, so only a limited portion of the data is presented here.
+
+Данные отражают количество наставников на советских предприятиях в регионах РСФСР и других республиках СССР в 1984–1989 годах. Статистика взята из ГАРФ, фонд Р-5451, опись 25б, дела 3390, 3426, 3504 и 3538. Эти сведения были собраны Всесоюзным центральным советом профессиональных союзов; до 1984 года статистика велась по отраслям, поэтому здесь представлена лишь ограниченная часть данных.
